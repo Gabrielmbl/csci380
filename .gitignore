@@ -1,0 +1,6 @@
+*.doc
+*.zip
+*.pyc
+__pycache__
+pyAI
+pyAI3.6/
